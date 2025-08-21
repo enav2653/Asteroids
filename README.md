@@ -1,1 +1,1 @@
-Boot.dev Ateroids lesson
+Boot.dev Asteroids lesson
